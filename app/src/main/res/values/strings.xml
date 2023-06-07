@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Spinner</string>
+    <string name="app_name">ListView</string>
     <string-array name="arrayPaises">
         <item>China</item>
         <item>India</item>
